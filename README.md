@@ -1,1 +1,1 @@
-How to be up to date in git
+This is the master branch
