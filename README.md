@@ -1,1 +1,1 @@
-This is the master branch
+How to update in git
